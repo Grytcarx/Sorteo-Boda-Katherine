@@ -3,7 +3,7 @@ function Init(){
 
     function calcularTiempoRestante() {
         const ahora = new Date();
-        const fechaObjetivo = new Date('2024-10-12T00:00:00');
+        const fechaObjetivo = new Date('2024-12-28T00:00:00');
         const diferencia = fechaObjetivo - ahora;
         if(diferencia>0){
             const dias = Math.floor(diferencia / (1000 * 60 * 60 * 24));
