@@ -46,7 +46,7 @@ function Init(){
                 mensaje = `¡Hola!, quiero comprar el número: ${numerosElegidosPorUsuario[0]}`;
             }
 
-            let url = "https://api.whatsapp.com/send?phone=573218768200";
+            let url = "https://api.whatsapp.com/send?phone=573228976948";
             mensaje = encodeURIComponent(mensaje);
             url = `${url}&text=${mensaje}`;
             enlaceComprar.href = url;
