@@ -65,7 +65,7 @@ a,span {
 body {
     position: relative;
     min-height: 100dvh;
-    background: linear-gradient(180deg, rgba(227,167,255,.5) -0%, rgba(228,240,255,1) 100%);
+    background: linear-gradient(180deg, rgb(243 255 167 / 39%) -0%, rgb(228, 255, 244) 100%);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 100%;
     overflow-x: hidden;

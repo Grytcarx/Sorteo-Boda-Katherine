@@ -6,20 +6,20 @@ body {
 }
 
 h1 {
-    color: #a8009c;
+    color: #a82e00;
     font-size: 4rem;
     text-align: center;
 }
 
 .div-detalles span{
     font-size: 1.5rem;
-    color: #7000c6;
+    color: #c6005d;
 }
 
 select, input {
     border: none;
     outline: none;
-    background-color: #a978dd;
+    background-color: #dd7887;
     color: white;
     padding: .5em;
     font-weight: bold;
@@ -45,7 +45,7 @@ select, input {
 }
 
 #tablaBoletas .titulo {
-    background-color: #70006e;
+    background-color: #700014;
     color: white;
 }
 
