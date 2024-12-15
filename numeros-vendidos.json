@@ -47,7 +47,7 @@
     {"numero": 67, "nombre": "Pedro Trujillo", "celular": "3213337566", "pagado": false},
     {"numero": 68, "nombre": "Maicol Padilla", "celular": "3003849364", "pagado": false},
     {"numero": 69, "nombre": "Jonathan Osorio", "celular": "3142082047", "pagado": false},
-    {"numero": 73, "nombre": "Hernando Quimbayo", "celular": "3178893650", "pagado": false},
+    {"numero": 73, "nombre": "Hernando Quimbayo", "celular": "3178893650", "pagado": true},
     {"numero": 74, "nombre": "Leidy Perez", "celular": "3242077594", "pagado": false},
     {"numero": 75, "nombre": "Marina Malaver", "celular": "3196686217", "pagado": false},
     {"numero": 76, "nombre": "Jeizon Mendez", "celular": "3144623059", "pagado": false},
