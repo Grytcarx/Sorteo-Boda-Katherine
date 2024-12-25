@@ -46,6 +46,7 @@
     {"numero": 47, "nombre": "Jhenifer Mendez", "celular": "3227356987", "pagado": true},
     {"numero": 48, "nombre": "Pedro Trujillo", "celular": "3213337566", "pagado": false},
     {"numero": 49, "nombre": "Cliente ENF", "celular": "3025073170", "pagado": true},
+    {"numero": 50, "nombre": "Enrique Malaver", "celular": "3196686217", "pagado": true},
     {"numero": 51, "nombre": "Lucho Vargas", "celular": "3133110575", "pagado": false},
     {"numero": 52, "nombre": "Monica Esteban", "celular": "3134977907", "pagado": true},
     {"numero": 53, "nombre": "Jhon Mendez", "celular": "3134643032", "pagado": true},
