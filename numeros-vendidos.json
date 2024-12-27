@@ -23,7 +23,7 @@
     {"numero": 21, "nombre": "Blanca Muñoz", "celular": "3202620491", "pagado": false},
     {"numero": 22, "nombre": "Jhenifer Mendez", "celular": "3227356987", "pagado": true},
     {"numero": 23, "nombre": "Alisson Torres", "celular": "3202218811", "pagado": true},
-    {"numero": 24, "nombre": "José Padilla", "celular": "3008842864", "pagado": false},
+    {"numero": 24, "nombre": "José Padilla", "celular": "3008842864", "pagado": true},
     {"numero": 25, "nombre": "Natalia Rojas", "celular": "3144623059", "pagado": false},
     {"numero": 26, "nombre": "Jeizon Mendez", "celular": "3144623059", "pagado": true},
     {"numero": 27, "nombre": "Katherine Mendez", "celular": "3228976948", "pagado": true},
