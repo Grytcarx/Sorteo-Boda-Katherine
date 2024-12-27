@@ -30,7 +30,7 @@
     {"numero": 28, "nombre": "Blanoly Mendez", "celular": "3224624294", "pagado": true},
     {"numero": 29, "nombre": "Hernando Malaver", "celular": "3196686217", "pagado": true},
     {"numero": 32, "nombre": "Yoni Cadena", "celular": "3144623059", "pagado": false},
-    {"numero": 33, "nombre": "Otilia Huerfano", "celular": "3022586834", "pagado": false},
+    {"numero": 33, "nombre": "Otilia Huerfano", "celular": "3022586834", "pagado": true},
     {"numero": 34, "nombre": "Hernando Malaver", "celular": "3196686217", "pagado": true},
     {"numero": 35, "nombre": "Señor Marranos", "celular": "3003849364", "pagado": true},
     {"numero": 36, "nombre": "Luz ney Quimbayo", "celular": "3118896071", "pagado": true},
